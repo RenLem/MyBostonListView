@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Boston ListView</string>
+
+    <string-array name="list">
+        <item>Mediteran</item>
+        <item>Azuri</item>
+        <item>Pacifik</item>
+        <item>Karibi</item>
+        <item>Tropski otoci</item>
+        <item>Kuba</item>
+        <item>Plaže</item>
+        <item>Kokteli</item>
+
+    </string-array>
+</resources>
